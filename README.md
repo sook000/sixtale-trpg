@@ -1,6 +1,6 @@
 # 🦊 SIXTALE
 
-![sixtale-logo](/uploads/8e47f5f0f93220ec9343cbef4333a0db/sixtale-logo.png)
+![image](https://github.com/user-attachments/assets/46d71ee8-0222-4f8c-b129-45a786765b34)
 
 <br><br>
 
@@ -16,7 +16,7 @@ TRPG(Table-top Role Playing Game)를 온라인 상에서 즐길 수 있는 ORPG(
 
 ## 🐺 아키텍처
 
-![sixtale-architecture](/uploads/7a5f703584d7a23349e68d75617745a4/sixtale-architecture.png)
+![image](https://github.com/user-attachments/assets/f3f8c558-587a-4644-b35a-8a4755805692)
 
 <br><br>
 
@@ -33,57 +33,57 @@ TRPG(Table-top Role Playing Game)를 온라인 상에서 즐길 수 있는 ORPG(
 
 ### 홈 화면
 
-![sixtale-home](/uploads/4096d2c6ff9ec0eee8d5a63569a4773a/sixtale-home.PNG)
+![image](https://github.com/user-attachments/assets/be506f14-a366-44b9-b99b-a50b4be63e32)
 <br>
 
 ### 소셜 로그인
 
-![sixtale-social-login](/uploads/2e657b886e2225eb0aaca5184283e4ba/sixtale-social-login.PNG)
+![image](https://github.com/user-attachments/assets/7c1e7b1e-01c2-4ddf-af82-7a0ca005e855)
 <br>
 
 ### 로비
 
 
-![sixtale-lobby](/uploads/fa992c0a602cba08e41ee2a87e11dd98/sixtale-lobby.png)
+![image](https://github.com/user-attachments/assets/f93524e3-53a1-4101-949c-d4f6297ae049)
 <br>
 
 * 방 생성 모달
-![sixtale-make-room](/uploads/360a1f6f3738d645409e9a78bf0dcd72/sixtale-make-room.PNG)
+![image](https://github.com/user-attachments/assets/1c8712cc-bd2f-4b19-800c-a62d8c665812)
 <br>
 
 ### 게임 대기 방
 
-![sixtale-wait](/uploads/435f1aa5c13b7f7524aa73921dd8977e/sixtale-wait.png)
+![image](https://github.com/user-attachments/assets/74adaffa-8a39-4b2a-9cd1-3555789b74e0)
 <br>
 
 ### 캐릭터 시트
 
-![sixtale-sheet](/uploads/8ee66a85380b9f7ebdff2b1acd66e02b/sixtale-sheet.png)
+![image](https://github.com/user-attachments/assets/4936643e-861f-409d-a423-f86e1724a0f6)
 <br>
 
 ### 인게임 플레이
 
-![sixtale-ingame](/uploads/bfdd451862b7dbd8c28a06d710d15b29/sixtale-ingame.png)
+![image](https://github.com/user-attachments/assets/536b3888-3c28-4ba9-94ba-98369c2186d5)
 <br>
 
 ### 룰 챗봇 페이지
 
-![sixtale-rulebook](/uploads/7da4576e2ca1e0c7e19d3218e45e0d27/sixtale-rulebook.PNG)
+![image](https://github.com/user-attachments/assets/bd0b4cae-881d-40f5-adf1-f7ab056450cf)
 <br>
 
 ### 시나리오 목록 페이지
 
-![sixtale-scenario-list](/uploads/d081b05db9c5c7b5f7982664ed6dee5f/sixtale-scenario-list.PNG)
+![image](https://github.com/user-attachments/assets/544d86cc-8d97-434e-b450-129fddc0ede0)
 <br>
 
 ### 마이페이지
 
 * 플레이 기록
-![sixtale-play-report](/uploads/65389118e0a11a8add5cddeb963b1dc3/sixtale-play-report.PNG)
+![image](https://github.com/user-attachments/assets/a839b09f-7976-48a4-8c73-c0eb2864f18b)
 <br>
 
 * 좋아요한 시나리오
-![sixtale-like-scenario](/uploads/423dad4758526df91188b3acdda85260/sixtale-like-scenario.PNG)
+![image](https://github.com/user-attachments/assets/e9d2272f-f1dc-40ee-a005-76d688aa702a)
 <br>
 
 <br>
